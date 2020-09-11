@@ -1,4 +1,6 @@
 cd ~/GitHub/police-logs/;
+echo $(date)
+printf "\n"
 
 git remote add upstream https://github.com/mit/police-logs.git
 git fetch upstream
@@ -9,3 +11,4 @@ python update_csv.py
 git add full_logs.csv processed_logs.txt
 git commit -m 'updating .csv'
 git push
+printf "\n-------\n"
