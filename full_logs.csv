@@ -2839,3 +2839,5 @@ DateTimeOccurred,Status,DateTimeReported,Code,Location,Comments,Filename
 2020-03-01 00:00:00,OPEN,2020-10-07 15:51:11,SUSPICIOUS,W89 / 301 VASSAR ST,Report filed regarding suspicious activity.,October 7 2020.pdf
 2020-10-06 18:30:00,OPEN,2020-10-07 13:49:44,LARCENY,W70 / 471 MEMORIAL DR,Report filed regarding a larceny.,October 7 2020.pdf
 2020-10-07 10:44:00,OPEN,2020-10-07 10:44:15 NO REPORTS OF RESIDENTIAL FIRES.,WELL BEING   CK,M46 / 43 VASSAR ST,Report filed regarding a well-being check.,October 7 2020.pdf
+2020-10-08 19:22:00,OPEN,2020-10-08 19:22:17,SUSPICIOUS,W89 / 301 VASSAR ST,Report filed regarding suspicious activity.,October 8 2020.pdf
+2020-10-08 08:30:00,OPEN,2020-10-08 14:02:55,LARCENY,W64 / 219 VASSAR ST,Report filed regarding a larceny.,October 8 2020.pdf
