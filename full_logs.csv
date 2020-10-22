@@ -2861,3 +2861,6 @@ DateTimeOccurred,Status,DateTimeReported,Code,Location,Comments,Filename
 2020-10-19 13:12:00,OPEN,2020-10-19 13:12:43,PRODAMAG,314 MAIN ST,Report filed regarding property damage.,October 19 2020.pdf
 2020-10-11 06:00:00,OPEN,2020-10-19 10:44:16,ATTEMPT COMMIT CRIME,W70 / 471 MEMORIAL DR,Report filed regarding an attempted larceny.,October 19 2020.pdf
 2020-10-15 17:30:00,OPEN,2020-10-20 10:08:07,SUSPICIOUS,N51 / 275 MASSACHUSETTS AVE,Report filed regarding suspicious activity.,October 20 2020.pdf
+2020-10-20 18:00:00,OPEN,2020-10-21 16:48:53,SUSPICIOUS,E25 / 45 CARLTON ST,Report filed regarding suspicious activity.,October 21 2020.pdf
+2020-10-21 16:23:00,OPEN,2020-10-21 16:23:38,B&E,M68 / 31 AMES ST ,Report filed regarding a burglary.,October 21 2020.pdf
+2020-10-20 18:00:00,OPEN,2020-10-21 09:22:34,LARCENY,M41 / 77 VASSAR ST ,Report filed regarding a larceny.,October 21 2020.pdf
