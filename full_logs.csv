@@ -2866,3 +2866,7 @@ DateTimeOccurred,Status,DateTimeReported,Code,Location,Comments,Filename
 2020-10-20 18:00:00,OPEN,2020-10-21 09:22:34,LARCENY,M41 / 77 VASSAR ST ,Report filed regarding a larceny.,October 21 2020.pdf
 2020-10-19 17:00:00,OPEN,2020-10-22 16:06:16,LARCENY,CP / 32 HEREFORD ST,Report filed regarding a larceny of a delivery package.,"October 22, 2020.pdf"
 2020-10-22 09:49:00,OPEN,2020-10-22 09:49:29,ACCIDENT,E23 / 25 CARLTON ST,Report filed regarding a motor vehicle accident.,"October 22, 2020.pdf"
+2020-10-25 10:00:00,OPEN,2020-10-25 17:38:25,LARCENY,M32 / 32 VASSAR ST,Report filed regarding larceny of a bicycle.,October 23-25 2020.pdf
+10:37:00,OPEN,2020-10-25 10:37:38,VEHDAMAG 2020-10-25,HAYWARD LOT / 2 HAYWARD ST,Report filed regarding motor vehicle damage.,October 23-25 2020.pdf
+02:19:00,OPEN,2020-10-25 02:19:53,SUSPICIOUS 2020-10-25,E53 / 30 WADSWORTH ST,Report filed regarding suspicious activity.,October 23-25 2020.pdf
+2020-10-25 02:03:00,OPEN,2020-10-25 02:03:08,B&E,M66 / 25 AMES ST,Report filed regarding a burglary. Timely warning issued.,October 23-25 2020.pdf
