@@ -2881,3 +2881,7 @@ DateTimeOccurred,Status,DateTimeReported,Code,Location,Comments,Filename
 01:58:00,OPEN,2020-11-01 01:58:42,SUSPICIOUS 2020-11-01,W85C / 15 AUDREY ST,Report filed regarding suspicious activity.,October 30- November 1 2020.pdf
 00:05:00,OPEN,2020-10-30 00:36:06,VEHDAMAG 2020-10-30,E15 / 20 AMES ST,Report filed regarding motor vehicle damage.,October 30- November 1 2020.pdf
 2020-11-03 10:28:00,OPEN,2020-11-03 10:28:00,WELL BEING CK,W89 / 301 VASSAR ST,Report filed regarding a well-being check.,November 3 2020.pdf
+2020-11-07 23:00:00,OPEN,2020-11-08 18:33:42,STUDPROB,W1 / 305 MEMORIAL DR,Report filed regarding a student problem.,November 6-8 2020.pdf
+12:51:00,ARREST,2020-11-08 12:51:17,SUSPICIOUS 2020-11-08,W7 / 362 MEMORIAL DR,Suspect arrested for trespassing. Suspect information is unavailable at this time. The log will be updated once the suspect’s information is available.,November 6-8 2020.pdf
+2020-11-07 13:24:00,ARREST,2020-11-07 13:24:44,UNWANTD,M26 / 60 VASSAR ST,"David Scrima, 59, 15 Range Rd Windham, NH was placed under arrest for trespassing.",November 6-8 2020.pdf
+2020-10-20 08:35:00,OPEN,2020-11-06 08:35:15,HARASS,M6 / 182 MEMORIAL DR,Report filed regarding harassing phone calls.,November 6-8 2020.pdf
