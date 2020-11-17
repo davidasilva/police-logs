@@ -2892,3 +2892,11 @@ DateTimeOccurred,Status,DateTimeReported,Code,Location,Comments,Filename
 2020-11-12 19:34:00,OPEN,2020-11-12 19:34:17,SUSPICIOUS,W89 / 301 VASSAR ST,Report filed regarding suspicious activity.,"November 12, 2020.pdf"
 2020-11-12 12:04:00,OPEN,2020-11-12 12:04:04,TRESPASS,W20 / 84 MASSACHUSETTS AVE,Report filed regarding an individual who was stopped and identified for trespassing. Party was issued a trespass warning and escorted from the property.,"November 12, 2020.pdf"
 2020-11-13 15:31:00,OPEN,2020-11-13 15:31:05,ASISTOPD,PKS / 530 BEACON STREET,The MIT PD assists the Boston Police with an investigation.,November 13-15 2020.pdf
+2020-11-07 23:00:00,OPEN,2020-11-08 18:33:42,STUDPROB,W1 / 305 MEMORIAL DR,Report filed regarding a student problem.,November 6-8 2020 update.pdf
+12:51:00,ARREST,2020-11-08 12:51:17,SUSPICIOUS 2020-11-08,W7 / 362 MEMORIAL DR,"John Farrell, 32, 6 Kimball Circle Woburn, MA, was placed under arrest for disorderly conduct, breaking and entering for a felony, resisting arrest, obstruction and trespassing.",November 6-8 2020 update.pdf
+2020-11-07 13:24:00,ARREST,2020-11-07 13:24:44,UNWANTD,M26 / 60 VASSAR ST,"David Scrima, 59, 15 Range Rd Windham, NH was placed under arrest for trespassing.",November 6-8 2020 update.pdf
+2020-10-20 08:35:00,OPEN,2020-11-06 08:35:15,HARASS,M6 / 182 MEMORIAL DR,Report filed regarding harassing phone calls.,November 6-8 2020 update.pdf
+2020-11-16 18:25:00,OPEN,2020-11-16 18:25:08,SUSPICIOUS,E23 / 25 CARLTON ST,Report filed regarding suspicious activity.,November 16 2020.pdf
+2020-11-16 10:01:00,OPEN,2020-11-16 10:01:39,SUSPICIOUS,E23 / 25 CARLTON ST,Report filed regarding suspicious activity.,November 16 2020.pdf
+2020-11-16 07:16:00,OPEN,2020-11-16 07:16:02,ACCIDENT,575 MEMORIAL DR,Report filed regarding a motor vehicle accident.,November 16 2020.pdf
+2020-11-16 05:16:00,OPEN,2020-11-16 05:16:27,SUSPICIOUS,COLLIER MEMORIAL / 32 VASSAR ST,Report filed regarding suspicious activity.,November 16 2020.pdf
